@@ -253,7 +253,7 @@ Wireshark was used to capture and analyze:
 
 ### Screenshot
 
-INSERT WIRESHARK CAPTURE SCREENSHOT HERE
+<img width="1496" height="828" alt="wireshark-scan" src="https://github.com/user-attachments/assets/8137c115-a4bf-4cd8-9b8e-49012152a395" />
 
 ---
 
@@ -361,7 +361,7 @@ The lab environment serves as a foundation for future cybersecurity projects inv
 
 # Author
 
-Talha Khan
+Talha M. Khan
 
 ## LinkedIn
 https://www.linkedin.com/in/talha-majeed-khan/

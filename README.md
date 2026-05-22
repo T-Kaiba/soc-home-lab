@@ -365,7 +365,7 @@ The lab environment serves as a foundation for future cybersecurity projects inv
 Talha Khan
 
 ## LinkedIn
-
+https://www.linkedin.com/in/talha-majeed-khan/
 
 ## GitHub
-INSERT GITHUB PROFILE LINK HERE
+https://github.com/T-Kaiba/

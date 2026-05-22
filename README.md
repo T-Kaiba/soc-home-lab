@@ -89,8 +89,7 @@ Used as the primary attacker and security testing machine for:
 
 ### Screenshot
 
-<img width="1219" height="844" alt="image" src="https://github.com/user-attachments/assets/35aade67-137e-4f75-9ccf-83c94d3e7c81" />
-
+<img width="1098" height="529" alt="kali" src="https://github.com/user-attachments/assets/b443df26-01f3-4a11-ab6e-dee888f9a2b2" />
 
 ---
 
